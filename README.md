@@ -66,7 +66,7 @@ Open in Colab
 Si encuentras mejoras en el análisis o visualizaciones, ¡no dudes en hacer un Pull Request!
 
 📄 Licencia: MIT
-👨‍💻 Autor: [Tu Nombre]
+👨‍💻 Autor: Michael Ruiz Esquivel.
 🔗 Repositorio: github.com/tu-usuario/alura-store-analysis
 
 #DataAnalysis #Python #Pandas #BusinessIntelligence #RetailAnalytics
